@@ -9,7 +9,7 @@ EnterInfMode(gamePath, isGameOpened)
 	if not isGameOpened
 	{
 		Run %gamePath%
-		Sleep 18000 ; 等待游戏加载 <18s <可改为检测出现无限按钮>
+		Sleep 18000 ; 等待游戏加载 <18s
 		; 可能加载时会比较卡所以可以改为检测按钮
 	}
 
