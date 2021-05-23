@@ -1,0 +1,21 @@
+# Self Defines
+.idea
+__pycache__
+move.txt
+*.spec
+
+# Local Test
+test
+
+# VS files
+.vs
+*.tlog
+*.vcxproj
+*.filters
+*.cache
+*.deps
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
